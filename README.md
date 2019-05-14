@@ -1,2 +1,2 @@
 # PythonBirthday
-Wish your friends in python
+Wish your friends a warm wishes in thier birthday with python.
